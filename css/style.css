@@ -1,0 +1,41 @@
+body{
+    background-color: #E8F6EF;
+    color: #3a615a;
+}
+hr{
+    border-style: dotted none none;
+    /* border */
+    border-color: grey;
+    border-width: 7px;
+    width: 10%;
+    height: 0px;
+}
+h1,h3{
+    color: #66BFBF;
+}
+a{
+    color: #a383c0;
+    text-decoration: none;
+    /* margin-left: 10px; */
+}
+a:hover{
+    color: rgb(190, 100, 100);
+}
+.bottom{
+    padding: 10px;
+    margin-bottom: 30px;
+}
+.more{
+    margin-right: 20px;
+    font-size: 20px;
+}
+
+/* h1:hover,h3:hover{
+    color: #830011;
+}
+img{
+    background-color: white;
+}
+img:hover{
+    background-color: rebeccapurple;
+} */
